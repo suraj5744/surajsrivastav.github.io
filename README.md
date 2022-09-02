@@ -70,3 +70,23 @@
                                 
   </body>
 </html>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <script type="text/javascript" src="scripts.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <div>I have a background image!</div>
+</body>
+
+</html>
+
+div {
+   background-image: url('https://cdn.bitdegree.org/learn/background-example.jpg?780a05c1');
+   height: 350px;
+   width: 100%;
+   color: white;
+}
